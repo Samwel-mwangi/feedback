@@ -24,6 +24,9 @@
         <li class="nav-item"><a class="nav-link" href="/index.php">past feedback</a>Past feedback</li>
         <li  class="nav-item"><a class="nav-link" href="/index.php">About us</a>About us</li>
     </ul>
+</div>
     </nav>
 </body>
+<main>
+    
 </html>
